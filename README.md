@@ -1,4 +1,4 @@
-# Hello, Community 👋
+## Hello, Community 👋
 
 My name is **Oleksandra (Sasha) Bryhynets**. 
 
