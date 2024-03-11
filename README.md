@@ -1,6 +1,6 @@
 # Hello, Community 👋
 
-My name is Oleksandra (Sasha) Bryhynets. 
+My name is **Oleksandra (Sasha) Bryhynets**. 
 
 I am a marketing analyst with a strong digital analytics and paid media management background. I am passionate about data-driven decision-making and marketing optimisation. My expertise:
 
